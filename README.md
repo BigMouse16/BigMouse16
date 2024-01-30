@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BigMouse16
-- 👀 I’m interested in python, jupyter, tableau, as well as doamins such as critical care, healthcare capacity management and pre-hospital resource utilization.
-- 🌱 I am currentky learning data analutics through University of maryland Global Campus and EdX.
+- 👀 I’m interested in R, RMarkdown, and Tableau. I am also interested in various healthcare analytics, including critical care, capacity management and pre-hospital resource utilization.
+- 🌱 I have recently graduated with a MS in Data Analytics from University of Maryland Global Campus.
 - 💞️ I’m looking to collaborate on data science projects in healthcare.
-- 📫 How to reach me: BigMouse10000@gmail.com
+- 📫 How to reach me: brandon.r.king@medstar.net
 
 <!---
 BigMouse16/BigMouse16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
